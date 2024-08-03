@@ -1,1 +1,2 @@
 # Currency-Convertor
+A currency converter is a software application designed to swiftly convert monetary amounts between different currencies. Users input an amount in one currency, select the desired output currency, and the tool displays the equivalent value. This project typically involves fetching real-time exchange rates from a reliable API, incorporating a user-friendly interface, and ensuring accurate and efficient calculations. Currency converters find applications in various domains, from personal finance management to international trade.
